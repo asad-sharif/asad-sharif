@@ -2,10 +2,16 @@
 # Hey there! I'm Asad 🤝
 ### I'm on an exciting journey to become a proficient front-end developer. This repository serves as a brief intro
 
-## Current Strengths 💪
+## Strengths 💪
 - **Languages:** HTML, CSS, JavaScript
-- **Libraries & Frameworks:** React, Bootstrap
+- **Libraries & Frameworks:** Bootstrap, React
+- **UI/UX Design:** Figma
 - **Version Control:** Git, GitHub
+- **Familiar:** Java, Kotlin, C++, WordPress, Shopify
+- Problem Solving and Debugging
+- Strong Communication and Collaboration
+
+
 
 ## Goals 🚀
 I'm determined to enhance my Frontend development skills and eventually transition into a full-time role in the industry. I'm particularly interested in creating user-friendly, visually appealing web applications.
