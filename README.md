@@ -1,5 +1,5 @@
 # Hey there! I'm Asad 🤝
-### I am currently honing my skills as a front-end developer and would like to showcase my work through this repository.
+### Software Engineer with a Bachelor's degree, committed to mastering Frontend development for impactful, user-centric web applications.
 
 ## Current Strengths 💪
 - **Languages:** HTML, CSS, JavaScript
