@@ -1,9 +1,16 @@
 
 # Hey there! I'm Asad 🤝
-### I'm on an exciting journey to become a proficient Frontend developer. This repository serves as a brief intro. 
-![Alt Text](https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy-downsized.gif)
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <p style="margin: 0;"><strong>I'm on an exciting journey to become a proficient Frontend developer. This repository serves as a brief intro.</strong></p>
+        <br>
+    </div>
+    <div style="flex-shrink: 0;">
+        <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy-downsized.gif" alt="Alt Text" width="150" height="150">
+    </div>
+</div>
 
-## Skills
+## Strengths 💪
 - **Languages:** HTML, CSS, JavaScript
 - **Libraries & Frameworks:** React, Bootstrap
 - **Version Control:** Git, GitHub
