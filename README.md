@@ -1,5 +1,5 @@
-# Hey there! I'm Asad 🤝
-### Software Engineer with a Bachelor's degree, committed to mastering Frontend development for impactful, user-centric web applications.
+# Hey there 👋
+### I'm a Software Engineer with a Bachelor's degree, committed to mastering Frontend development for impactful, user-centric web applications.
 
 ## Current Strengths 💪
 - **Languages:** HTML, CSS, JavaScript
