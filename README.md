@@ -1,4 +1,4 @@
-# Hi there, I'm Asad Sharif! 👋
+# Hi there 👋
 
 I'm a Software Engineer with a strong focus on crafting engaging and accessible frontend web experiences. With hands-on experience in modern frontend technologies like React, Tailwind CSS, and Material UI, I thrive on bringing user-centric designs to life. 
 
