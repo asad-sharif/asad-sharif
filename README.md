@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Asad Sharif
+# Hi there 👋
 
 I'm a Meta-certified ([view](https://www.credly.com/badges/576a26b2-32e4-4692-b682-915a991624ac)) Frontend Developer with a Bachelor's degree in Software Engineering and hands-on experience crafting performant, accessible, and responsive web applications.
 
