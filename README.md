@@ -1,17 +1,28 @@
-# Hi there 👋
+# Hi there 👋 I'm Asad Sharif
 
-I'm a Software Engineer with a strong focus on crafting engaging and accessible frontend web experiences. With hands-on experience in modern frontend technologies like React, Tailwind CSS, and Material UI, I thrive on bringing user-centric designs to life. 
+I'm a Meta-certified ([view](https://www.credly.com/badges/576a26b2-32e4-4692-b682-915a991624ac)) Frontend Developer with a Bachelor's degree in Software Engineering and hands-on experience crafting performant, accessible, and responsive web applications.
 
-## My Tech Stack 💻
-- **Languages:** HTML, CSS, JavaScript (ES2015+)
-- **Frameworks & Libraries:** React, Tailwind CSS, MUI
-- **Tools & Platforms:** Git, GitHub, Netlify, Figma, WordPress, Shopify
+I specialize in building modern UIs with **React**, **TypeScript**, and **Tailwind CSS**, and have a growing track record of delivering clean, maintainable code — whether in startups or agile teams. I care deeply about code quality, performance, and user experience.
 
-## Let's Connect!
-I'm actively seeking full-time opportunities in Frontend Development and open to collaborations on exciting projects. Let's connect and create something amazing together!
+## 🧰 Tech Stack
 
-- **Email:** [asadsharif1270@gmail.com](mailto:asadsharif1270@gmail.com)
-- **LinkedIn:** [Asad Sharif](https://www.linkedin.com/in/asad--sharif/)
----
+**Languages:**  
+TypeScript, JavaScript (ES6+), HTML5, CSS3  
 
-Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or just chat about all things web development!
+**Frontend:**  
+React.js, Next.js, Redux Toolkit, Tailwind CSS, MUI, Shadcn  
+
+**Backend:**  
+Node.js, Express.js, MongoDB, REST APIs  
+
+**Tools & Platforms:**  
+Git, GitHub, Vercel, Netlify, Figma
+
+## 📬 Let’s Connect
+**Feel free to checkout my repos.**
+I'm open to new opportunities and collaborations — especially if you're working on something exciting in the frontend space.
+
+📧 [asadsharif1270@gmail.com](mailto:asadsharif1270@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/asad--sharif/)
+
+> *“Great software is built by great teams — and I'm always looking for the next great team to grow with.”*
