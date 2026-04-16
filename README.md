@@ -1,6 +1,6 @@
-### Hi — I'm a Frontend Engineer 👋
+### Hi there 👋
 
-Meta-certified. Software Engineering grad. I turn polished designs into fast, accessible web apps that people enjoy using.
+I'm a Frontend Engineer, Meta-certified, and Software Engineering grad. I turn polished designs into fast, accessible web apps that people enjoy using.
 
 I focus on production-ready UI: thoughtful interactions, predictable performance, and clean, maintainable code. I collaborate closely with designers and product teams to ship features that matter.
 
