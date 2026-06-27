@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 I'm a Frontend Developer, Meta-certified, and Software Engineering grad. I turn polished designs into fast, accessible web apps that people enjoy using.
 
