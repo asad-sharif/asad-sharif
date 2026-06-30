@@ -4,7 +4,7 @@ I'm a Frontend Developer, Meta-certified, and Software Engineering grad. I turn 
 
 I focus on production-ready UI: thoughtful interactions, predictable performance, and clean, maintainable code. I collaborate closely with designers and product teams to ship features that matter.
 
-#### What I build:
+#### What I build
 - **Design → code:** pixel-perfect, component-driven interfaces  
 - **Fast & accessible:** experiences that perform and scale in production  
 - **Pragmatic solutions:** simple, testable, and maintainable implementations
